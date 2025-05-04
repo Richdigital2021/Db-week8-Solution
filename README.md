@@ -69,7 +69,7 @@ This project allows users to manage a contact book through a RESTful API. It sup
 
 ---
 
-### 🚀 Setup & Run Instructions
+## 🚀 Setup & Run Instructions
 
 #### 1. Clone Repo & Install Dependencies
 
